@@ -31,8 +31,7 @@ To view this portfolio, simply visit the deployed GitHub Pages link: <a href="ht
 
 Alternatively, you can clone this repository to your local machine using the following command:
 
-bash
-Copy code
+Copy code <br>
 git clone https://github.com/RutujaMoholkar/MyPortfolio.git
 
 ## Usage
@@ -41,4 +40,4 @@ Once you have the project files on your local machine, you can open the index.ht
 ## Contact
 If you have any questions, suggestions, or just want to say hello, feel free to reach out to me at moholkarrutuja93@gmail.com.
 
-*** Happy Coding ...! ***
+<i><b> Happy Coding ...! </b></i>
